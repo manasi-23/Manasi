@@ -1,2 +1,0 @@
-# Manasi
-Banking System Code
